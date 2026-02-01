@@ -1,1 +1,15 @@
 # AI-CHATBOT-WITH-NLP
+
+*COMPANY*:CODETECH IT SOLUTIONS
+
+*NAME*:SRIKAKOLAPU GANGA LAKSHMI
+
+*INTERN ID*:CTIS2918
+
+*DOMAIN*:PYTHON PROGRAMMING
+
+*DURATION*:4 WEEKS
+
+*MENTOR*:NEELA SANTHOSH
+
+AI chatbot using NLP techniques for natural language understanding and conversation automation
